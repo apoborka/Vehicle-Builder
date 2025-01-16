@@ -77,7 +77,7 @@ class Motorbike extends Vehicle {
     console.log(`Weight: ${this.weight} lbs`);
     console.log(`Top Speed: ${this.topSpeed} mph`);
     console.log(`Color: ${this.color}`);
-    console.log(`Wheels: ${this.wheels}`);
+    console.log(`Wheels: ${this.wheels.map(wheel => wheel.toString()).join(', ')}`);
   }
 }
 
