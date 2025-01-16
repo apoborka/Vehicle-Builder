@@ -21,7 +21,7 @@
   III.) Run 'npm run start' in the terminal to compile and initialize the application.
 
   ## Usage
-  [VIDEO TUTORIAL]()
+  [VIDEO TUTORIAL](https://drive.google.com/file/d/1Mctd043lCNmyL3CkFKn1SNEgFhVeQjXi/view?usp=sharing)
 
   **You can use the application's prompts to:**
 
