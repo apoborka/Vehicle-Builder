@@ -24,12 +24,18 @@
   [VIDEO TUTORIAL]()
 
   **You can use the application's prompts to:**
+
   *a.) Create a new car, print its details, and take it for a drive:*
-    ![Create a vehicle](./screenshots/Create%20a%20Vehicle.jpg)
+  
+  ![Create a vehicle](./screenshots/Create%20a%20Vehicle.jpg)
+  
   *b.) Select a truck from the existing vehicles, use it to tow created or existing vehicles, and take them both for a jaunt:*
-    ![Select the existing F-150 and tow your created vehicle](./screenshots/Select%20a%20Vehicle%20and%20Tow%20a%20Created%20Vehicle.jpg)
+  
+  ![Select the existing F-150 and tow your created vehicle](./screenshots/Select%20a%20Vehicle%20and%20Tow%20a%20Created%20Vehicle.jpg)
+
   *c.) Create the perfect motorbike, and pop a legendary wheelie as you cruise:*
-    ![Create a motorbike and pop a wheelie](./screenshots/Create%20a%20Motorcycle%20and%20Do%20a%20Wheelie.jpg)
+  
+  ![Create a motorbike and pop a wheelie](./screenshots/Create%20a%20Motorcycle%20and%20Do%20a%20Wheelie.jpg)
   
 
   ## License
